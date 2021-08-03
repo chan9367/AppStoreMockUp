@@ -1,0 +1,2 @@
+rootProject.name = "AppStoreMockUp"
+include ':app'
